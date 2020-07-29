@@ -7,4 +7,3 @@ def display_board
   puts "-----------"
   puts "   |   |   "
 end
-prints "a 3x3 tic tac toe board"
