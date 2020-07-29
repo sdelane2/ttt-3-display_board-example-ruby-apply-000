@@ -7,3 +7,4 @@ def display_board
   puts "-----------"
   puts "   |   |   "
 end
+prints a tic tac toe board
